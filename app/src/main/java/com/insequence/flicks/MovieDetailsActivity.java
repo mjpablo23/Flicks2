@@ -27,16 +27,6 @@ public class MovieDetailsActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        // https://developer.android.com/training/system-ui/status.html
-//        View decorView = getWindow().getDecorView();
-//        // Hide the status bar.
-//        int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
-//        decorView.setSystemUiVisibility(uiOptions);
-//        // Remember that you should never show the action bar if the
-//        // status bar is hidden, so hide that too if necessary.
-//        ActionBar actionBar = getActionBar();
-//        actionBar.hide();
-
         String str = getIntent().getStringExtra("str");
         String title = getIntent().getStringExtra("title");
         String description = getIntent().getStringExtra("description");
@@ -58,7 +48,6 @@ public class MovieDetailsActivity extends AppCompatActivity {
 //        @BindView(R.id.infoRatingView) TextView ratingView;
 //        @BindView(R.id.infoReleaseDateView) TextView releaseDateView;
 
-        // don't know why they are reversed
         descriptionView.setText(title);
         titleView.setText(description);
         ratingView.setText("Average Rating: " + rating);
