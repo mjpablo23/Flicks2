@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_44af12acf2d70ef6e9f57bf30eb7a70ef4f2ba7a.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_71227a809553c1d87907f54181a211e7cdb47157.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.4.0_da37e110c1070020e29c0636f72df33a15deacc2.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_0a8f0208e07d97cfd44f826276ffb0f1517396ac.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.4.0_05a237bdebd37e2da0a3cb030a4b68c3e1c601e1.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_e415ff4e7ac4e0118c4e71db57de9f0998632d0c.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e36aafb1e54b514adaa2fa5a01f102b1490bc5f7.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.4.0_1f22c2a7a77e5b1b906d58207a15c20136bec700.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_52fcbdd33d4fd737347d83df7bf3df4e34ad350b.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1ad1a1e063df333b6e21004dac73a22490dc60b1.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_ac651677a0463764bee4550e6bd4ebc34a52ddb2.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_666db85042bfba4faea9f24b03610c02368f8334.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_4b32b6e31951c78e2040bace2d4f178abac578af.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_44b4577f4e5ac63c60d010e14db702a8e41bb34a.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_52b196c22386ed0413611943a4c3b1c8eb8d683d.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b64f27a07c76de3d77187febe0dcf299c3149732.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_23baf271165ddee21ba1d5ff52d32c9ea9fe6f45.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_5f2ddf25b04fbebcbd67458f1a73c03e71ad28f9.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_9a2ab450e31a8a33435b9ca16512bd51bb8067b1.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.4.0_aa05df284925b8b1b5b7d8e27ca6722af855e0bd.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_85b60c7ee6d85897977ccbb707faf5d4295e74e0.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.4.0_b75a0be7267b96ff9086acab40d1ef630d819d4e.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_51d760d3d9d9f7609e9a1c0911ec582dcd6ee5c0.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2b8b519b2b405df5eda7ae69b52c26d0b0335cc7.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.4.0_8af57c3fa63c916740c81ad62bd3110eea0d7d82.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_db7700ed4f53b175d578a2d84e4376e9b35e3521.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8072594d56a2e332e38b74d9ed4581b03456f052.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e2d04945951ab40363a6abb612e9ef1745d1ecd7">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ab59cb17afdd5906393ca043e8493ab719af79a9.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_5837a87609e0e7268eee82134fb56cefd013a945.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_642dd0d7b63346427de0706d952037a807f7036a.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_29a2ba461bb5fa171f9dc40d2cce61b035fb78bb.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.4.0_7fb88e39fc6efa55195ec023160322ce8720ea60.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e84a5835733e13f58dd87935bbcf8816c80290bc.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_e79d3293e55021323faa815fe4a6786087940699.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8996b3a123f86ecad00ad5d122d1b8f78d820fbb">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/instant-run_3611d85858df6a77aaa6084efc0444356bc2a720.jar" />
+    </item>
+    <item
+        jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_b85047934ed187fa5dc593808dabd17b3e9c4b6e.jar" />
+    </item>
+
+</items>
