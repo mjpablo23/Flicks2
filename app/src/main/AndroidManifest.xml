@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.insequence.simpletodo">
+    package="com.insequence.flicks">
 
     <!--http://stackoverflow.com/questions/10607392/custom-global-application-class-breaks-with-android-app-application-cannot-be-c-->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -13,7 +13,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.insequence.flicks.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,27 +21,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".SignInActivity" />
-
-        <!--<service-->
-            <!--android:name=".MyFirebaseMessagingService"-->
-            <!--android:exported="false">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.google.firebase.MESSAGING_EVENT" />-->
-            <!--</intent-filter>-->
-        <!--</service>-->
-
-        <!--<service-->
-            <!--android:name=".MyFirebaseInstanceIdService"-->
-            <!--android:exported="false">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="com.google.firebase.INSTANCE_ID_EVENT" />-->
-            <!--</intent-filter>-->
-        <!--</service>-->
-
         <activity
-            android:name=".EditItemActivity"
-            android:label="@string/title_activity_edit_item"
+            android:name=".MovieDetailsActivity"
+            android:label="@string/title_activity_movie_details_item"
             android:theme="@style/AppTheme.NoActionBar"></activity>
 
         <!--from 2nd solution:  http://stackoverflow.com/questions/5776851/load-image-from-url-->

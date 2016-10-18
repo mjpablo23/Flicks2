@@ -201,7 +201,7 @@
         jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="e2d04945951ab40363a6abb612e9ef1745d1ecd7">
+        sha1="d52a9fb505b2899e9f3a81d441217e620301c3ed">
         <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ab59cb17afdd5906393ca043e8493ab719af79a9.jar" />
     </item>
     <item
@@ -250,7 +250,7 @@
         jar="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="8996b3a123f86ecad00ad5d122d1b8f78d820fbb">
+        sha1="3855e76cdf4617286d632b701ab58aa53c56386d">
         <dex dex="/Users/paulyang/AndroidStudioProjects/FlicksCodepath/app/build/intermediates/pre-dexed/debug/instant-run_3611d85858df6a77aaa6084efc0444356bc2a720.jar" />
     </item>
     <item
